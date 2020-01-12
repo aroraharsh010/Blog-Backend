@@ -1,2 +1,2 @@
-# Blog-Backend
-The backend code for a blog website.
+# Blog-Website
+The code for a blogging website.
